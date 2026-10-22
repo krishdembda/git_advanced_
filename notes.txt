@@ -1,2 +1,3 @@
 first note
 update from feature branch
+second line
